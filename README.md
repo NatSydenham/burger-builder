@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The intention of this app is to learn React.js - special thanks to [Academind](https://academind.com/) for the awesome [React course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) that this project is from.
+
 ## Available Scripts
 
 In the project directory, you can run:
